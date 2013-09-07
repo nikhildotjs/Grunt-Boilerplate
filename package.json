@@ -1,0 +1,23 @@
+{
+	"name": "Grunt-Boilerplate",
+	"version": "0.0.1",
+	"description": "A simple grunt project template that I use to build quick grunt projects with the same pattern.",
+	"homepage": "http://acolchado.github.io/Grunt-Boilerplate",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:acolchado/Grunt-Boilerplate.git"
+	},
+	"license": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/acolchado/Grunt-Boilerplate/blob/master/LICENSE"
+		}
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-clean": "~0.5.0",
+		"grunt-contrib-copy": "~0.4.1",
+		"matchdep": "~0.1.2"
+	}
+}
